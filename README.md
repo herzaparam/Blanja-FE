@@ -99,7 +99,7 @@ $ npm start
 
 ## Link
 
-- :white_check_mark: [`Backend Tuku`](https://github.com/chaerulmarwan20/tuku-backend)
+- :white_check_mark: [`Backend Tuku`](https://github.com/herzaparam/tuku-backend.git)
 - :rocket: [`Publication`](https://tukupedia.netlify.app/)
 
 ## Authors
